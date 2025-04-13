@@ -20,4 +20,4 @@ Demnächst verfügbar.
 
 ## 📨 Support
 
-E-Mail: support@ap-development.eu
+E-Mail: info@ap-development.eu
