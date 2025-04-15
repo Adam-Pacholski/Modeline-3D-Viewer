@@ -1,4 +1,4 @@
-# Modeline – 3D-Modellanzeige + AR für WordPress
+# Modeline – 3D-Modellanzeige + AR
 
 **Modeline** ist ein professionelles, aber einfach zu bedienendes WordPress-Plugin zur Anzeige von `.glb`-3D-Modellen mit AR-Unterstützung.
 
