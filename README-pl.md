@@ -1,4 +1,4 @@
-# Modeline – Przeglądarka modeli 3D + AR dla WordPress
+# Modeline – Przeglądarka modeli 3D + AR
 
 **Modeline** to profesjonalna, ale łatwa w użyciu wtyczka do WordPressa, która umożliwia wyświetlanie modeli `.glb` z obsługą AR.
 
