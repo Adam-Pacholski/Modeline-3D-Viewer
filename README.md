@@ -1,4 +1,4 @@
-# Modeline – 3D Model Viewer + AR for WordPress
+# Modeline – 3D Model Viewer + AR
 
 **Modeline** is a professional yet easy-to-use WordPress plugin for displaying `.glb` 3D models with full AR support using `<model-viewer>`.
 
